@@ -1,5 +1,0 @@
-set -tmpdir "D:/project/alu/xst/projnav.tmp"
-set -xsthdpdir "D:/project/alu/xst"
-elaborate
--ifn main_module.prj
--ifmt mixed
